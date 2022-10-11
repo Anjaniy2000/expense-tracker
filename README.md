@@ -14,8 +14,8 @@ Prepared A Simple Expense Tracker Application Using Spring Boot & MongoDB.
   - Create An Expense
   - Display All The Expenses
   - Display Any Individual Expense (With expenseID)
-  - Update Any Exisitng Expense
-  - Delete Any Exisitng Expense
+  - Update Any Existing Expense
+  - Delete Any Existing Expense
   - Browse Expense Categories
 
 - Salary:
