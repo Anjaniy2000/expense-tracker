@@ -22,6 +22,7 @@ Prepared A Simple Expense Tracker Application Using Spring Boot & MongoDB.
   - Add / Update Salary
   - Get Salary
   - Get Total Expense Amount
+  - Reset Everything (Salary & Expenses)
 
 <h2>Tech-Stack / Technologies:</h2>
 
